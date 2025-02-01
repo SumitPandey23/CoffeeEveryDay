@@ -1,10 +1,11 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
+import { Stack } from 'expo-router'
 
 const index = () => {
   return (
     <View>
-      <Text>index</Text>
+      <Text>Hello</Text>
     </View>
   )
 }
